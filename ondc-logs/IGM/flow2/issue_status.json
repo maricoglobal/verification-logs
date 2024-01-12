@@ -1,0 +1,20 @@
+{
+    "context": {
+        "ttl": "PT30S",
+        "city": "std:080",
+        "action": "issue_status",
+        "bap_id": "buyer-app-preprod.ondc.org",
+        "bpp_id": "ondcpreprod.marico.in",
+        "domain": "nic2004:52110",
+        "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
+        "bpp_uri": "https://ondcpreprod.marico.in/retail/",
+        "country": "IND",
+        "timestamp": "2024-01-12T09:26:56.138Z",
+        "message_id": "1919a9f7-e1be-445c-82d8-f9dc6496ef14",
+        "core_version": "1.0.0",
+        "transaction_id": "81aa1ba0-fbe7-43c5-b874-8a171990e477"
+    },
+    "message": {
+        "issue_id": "1d273630-7545-4343-b525-0c4a141181ca"
+    }
+}
